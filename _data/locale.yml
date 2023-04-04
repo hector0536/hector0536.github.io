@@ -34,7 +34,7 @@ en-AU:
 ########################
 zh-Hans: &ZH_HANS
   SUBSCRIBE               : "订阅"
-  READMORE                : "阅读更多"
+  READMORE                : "阅读全文"
   SEARCH                  : "搜索"
   CANCEL                  : "取消"
   VIEWS                   : "阅读"
