@@ -1,7 +1,8 @@
 ---
 title: 测试
 key: 2023-04-03-this-is-a-test
-tags: Test
+tags: 
+- Test
 ---
 
 测试主题的用法以及markdown语法。
@@ -55,3 +56,11 @@ tags: Test
   代码...
   代码...
 ```
+
+表情：:ghost: :star2:
+
+---
+
+[github 链接](https://github.com/hector0536/hector0536.github.io)
+
+[![Star This Project](https://img.shields.io/github/stars/hector0536/hector0536.github.io.svg?label=Stars&style=social)](https://github.com/hector0536/hector0536.github.io)
