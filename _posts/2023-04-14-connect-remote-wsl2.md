@@ -1,7 +1,8 @@
 ---
 title: 远程连接wsl2
 key: 2023-04-03-connect-remote-wsl2
-tags: 
+tags:
+- 技术 
 - ssh
 - 远程
 - wsl
