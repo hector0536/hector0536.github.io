@@ -46,7 +46,7 @@ SMTP主机以及端口等信息需要根据不同的邮箱去设置。
 
 安装完成后，apache服务默认是监听在80端口，我们可以使用浏览器进入redmine的登录页面。同时软件包会安装一个管理工具，从开始页面打开，可以进行服务的停止重启等管理，如下图所示。
 
-![Image](https://raw.githubusercontent.com/hector0536/hector0536.github.io/main/assets/images/install-redmine-on-windows11-5.png)
+![Image](https://raw.githubusercontent.com/hector0536/hector0536.github.io/main/assets/images/install-redmine-on-windows11-5.jpg)
 
 登录成功后，通过“管理-->配置-->邮件通知”来配置邮件发件人地址，然后进行保存。
 
